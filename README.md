@@ -24,4 +24,4 @@ This project toggles an onboard LED using STM32CubeIDE and runs on the STM32 Nuc
 4. Observe the LED blinking
 
 ## Author
-- Deva Nanda S
+Deva Nanda S
