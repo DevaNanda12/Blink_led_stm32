@@ -20,7 +20,7 @@ This project toggles an onboard LED using STM32CubeIDE and runs on the STM32 Nuc
 4. Observe the LED blinking
 
 ## Screenshot 
-![Demo](https://github.com/DevaNanda12/Blink_led_stm32/blob/main/Screenshot%202025-06-17%20111147.png
+![Demo](screenshot%202025-06-17%20111147.png)
 
 ## Author
 - Deva Nanda S
